@@ -313,7 +313,7 @@ Web fetching, scraping, and search.
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
-- search-rotation — https://github.com/localfoundry/search-rotation-mcp
+- search-rotation — https://github.com/robin-bially/search-rotation-mcp
 
 ---
 
